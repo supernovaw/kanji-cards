@@ -1,0 +1,46 @@
+Change kanji
+Switch mode
+Progress
+Start
+Settings
+About
+Cycle through all cards
+Exam mode, type loops:
+Please choose at least one group
+Please type a valid loop amount
+Type kanji meaning
+Choose the correct one
+Draw kanji
+Practice stroke order
+Mode:
+Type kanji
+Select kanji
+Draw kanji
+Strokes practice
+Show answers amount
+Show correct answers percentage
+Show info for last:
+The test is over
+Ace! You have answered all %d cards correctly
+You have answered correctly %1$d out of %2$d
+Mistakes were done in those cards (%d):
+Apply
+Continue
+Return
+Type here
+Theme
+Suggested themes:
+Foreground color
+Background color
+or type color HEX:
+Please move your picture into this folder to use it:
+Open folder
+Type the name of you picture in folder
+or leave this field empty for no picture
+The file doesn't exist
+Can't read the file
+Background dim %.02f%%
+Miscellaneous
+Amount of kanji in kanji selection mode - %d
+Language
+Reset score

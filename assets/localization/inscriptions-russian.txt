@@ -1,0 +1,46 @@
+„R„}„u„~„y„„„Ž „{„p„~„t„x„y
+„P„u„‚„u„{„|„„‰„y„„„Ž „‚„u„w„y„}
+„R„„„p„„„y„ƒ„„„y„{„p
+„N„p„‰„p„„„Ž
+„N„p„ƒ„„„‚„€„z„{„y
+„O „‚„p„x„‚„p„q„€„„„‰„y„{„u
+„B„„q„y„‚„p„„„Ž „ƒ„|„…„‰„p„‰„~„„u „{„p„‚„„„
+„Q„u„w„y„} „„„u„ƒ„„„p, „{„€„|„y„‰„u„ƒ„„„r„€ „„€„r„„„€„‚„u„~„y„z:
+„P„€„w„p„|„…„z„ƒ„„„p, „r„„q„u„‚„y„„„u „‡„€„„„‘ „q„ „€„t„~„… „s„‚„…„„„…
+„P„€„w„p„|„…„z„ƒ„„„p, „r„r„u„t„y„„„u „t„u„z„ƒ„„„r„y„„„u„|„Ž„~„€„u „{„€„|„y„‰„u„ƒ„„„r„€ „„€„r„„„€„‚„u„~„y„z
+„B„r„€„t„y„„„Ž „x„~„p„‰„u„~„y„u „{„p„~„t„x„y
+„B„„q„y„‚„p„„„Ž „r„u„‚„~„„z „{„p„~„t„x„y
+„Q„y„ƒ„€„r„p„„„Ž „{„p„~„t„x„y
+„H„p„…„‰„y„r„p„~„y„u „„€„‚„‘„t„{„p „‰„u„‚„„
+„Q„u„w„y„}:
+„B„r„€„t„p „{„p„~„t„x„y
+„B„„q„€„‚„p „{„p„~„t„x„y
+„Q„y„ƒ„€„r„p„~„y„‘ „{„p„~„t„x„y
+„H„p„…„‰„y„r„p„~„y„‘ „„€„‚„‘„t„{„p „~„p„„y„ƒ„p„~„y„‘
+„P„€„{„p„x„„r„p„„„Ž „{„€„|„y„‰„u„ƒ„„„r„€ „€„„„r„u„„„€„r
+„P„€„{„p„x„„r„p„„„Ž „„‚„€„ˆ„u„~„„ „„‚„p„r„|„Ž„~„„‡ „€„„„r„u„„„€„r
+„P„€„{„p„x„„r„p„„„Ž „t„p„~„~„„u „x„p „„€„ƒ„|„u„t„~„y„u:
+„S„u„ƒ„„ „€„{„€„~„‰„u„~
+„B„ „€„„„r„u„„„y„|„y „~„p „r„ƒ„u %d „r„€„„‚„€„ƒ„€„r „„‚„p„r„y„|„Ž„~„€!
+„B„ „€„„„r„u„„„y„|„y „„‚„p„r„y„|„Ž„~„€ „~„p %1$d „y„x %2$d „r„€„„‚„€„ƒ„€„r
+„O„Š„y„q„{„y „t„€„„…„‹„u„~„ „r „ƒ„|„u„t„…„„‹„y„‡ „{„p„~„t„x„y (%d):
+„P„‚„y„}„u„~„y„„„Ž
+„P„‚„€„t„€„|„w„y„„„Ž
+„N„p„x„p„t
+„B„r„u„t„y„„„u
+„S„u„}„p
+„C„€„„„€„r„„u „„„u„}„:
+„O„ƒ„~„€„r„~„€„z „ˆ„r„u„„
+„W„r„u„„ „†„€„~„p
+„y„|„y „r„r„u„t„y„„„u HEX „ˆ„r„u„„„p
+„P„€„w„p„|„…„z„ƒ„„„p, „„€„}„u„ƒ„„„y„„„u „r„p„Š„… „{„p„‚„„„y„~„{„… „r „„„„… „„p„„{„…:
+„O„„„{„‚„„„„Ž „„p„„{„…
+„B„r„u„t„y„„„u „~„p„x„r„p„~„y„u „{„p„‚„„„y„~„{„y „y„x „„p„„{„y
+„y„|„y „€„ƒ„„„p„r„Ž„„„u „„€„|„u „„…„ƒ„„„„} „‰„„„€„q„ „~„u „y„ƒ„„€„|„Ž„x„€„r„p„„„Ž „{„p„‚„„„y„~„{„…
+„U„p„z„| „~„u „ƒ„…„‹„u„ƒ„„„r„…„u„„
+„U„p„z„| „~„u „…„t„p„v„„„ƒ„‘ „„‚„€„‰„y„„„p„„„Ž
+„H„p„„„u„}„~„u„~„y„u „†„€„~„p %.2f%%
+„Q„p„x„~„€„u
+„K„€„|„y„‰„u„ƒ„„„r„€ „{„p„~„t„x„y „r „‚„u„w„y„}„u „r„„q„€„‚„p „{„p„~„t„x„y - %d
+„`„x„„{
+„R„q„‚„€„ƒ„y„„„Ž „ƒ„‰„v„„

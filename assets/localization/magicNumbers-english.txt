@@ -1,0 +1,20 @@
+180 main buttons (main)
+220 'cycle through all cards' button (kanjiselect)
+230 'exam mode' button (kanjiselect)
+70 apply button
+80 return button
+210 modeswitch w
+80 modelabel <progress>
+150 typekanji
+150 selectkanji
+150 drawkanji
+160 strokespractice
+220 answersamount
+300 correctpercentage
+150 periodlabel </progress>
+145 colorlabels <settings>
+68 colorbuttons
+140 ortypehex label
+375 piclabel1
+120 openfolder </settings>
+120 resetscore
